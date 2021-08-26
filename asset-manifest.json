@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dsi-page/static/css/main.d425f54c.chunk.css",
+    "main.js": "/dsi-page/static/js/main.7ee8b614.chunk.js",
+    "main.js.map": "/dsi-page/static/js/main.7ee8b614.chunk.js.map",
+    "runtime-main.js": "/dsi-page/static/js/runtime-main.46117935.js",
+    "runtime-main.js.map": "/dsi-page/static/js/runtime-main.46117935.js.map",
+    "static/js/2.7b3fb3a3.chunk.js": "/dsi-page/static/js/2.7b3fb3a3.chunk.js",
+    "static/js/2.7b3fb3a3.chunk.js.map": "/dsi-page/static/js/2.7b3fb3a3.chunk.js.map",
+    "index.html": "/dsi-page/index.html",
+    "static/css/main.d425f54c.chunk.css.map": "/dsi-page/static/css/main.d425f54c.chunk.css.map",
+    "static/js/2.7b3fb3a3.chunk.js.LICENSE.txt": "/dsi-page/static/js/2.7b3fb3a3.chunk.js.LICENSE.txt",
+    "static/media/pana.65b76c2e.png": "/dsi-page/static/media/pana.65b76c2e.png",
+    "static/media/pana2.f03c06f1.png": "/dsi-page/static/media/pana2.f03c06f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46117935.js",
+    "static/js/2.7b3fb3a3.chunk.js",
+    "static/css/main.d425f54c.chunk.css",
+    "static/js/main.7ee8b614.chunk.js"
+  ]
+}
